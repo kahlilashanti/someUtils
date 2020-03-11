@@ -9,3 +9,7 @@ function divide (x,y) {
 function power(x,y) {
     return x**y;
 }
+
+function subtract(x,y) {
+    return x-y;
+}
